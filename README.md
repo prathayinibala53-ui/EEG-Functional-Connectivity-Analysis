@@ -1,6 +1,7 @@
 # EEG-Functional-Connectivity-Analysis
 This project analyzes EEG signals to explore brain connectivity patterns in healthy vs Alzheimer patients. 
 
+IMPORTANT: Note that the code posted is very simplified and does not match the sample result posted. This is due to the university's plagiarism rules. The actual project was much more detailed. 
 
 ## Description
 - Processed EEG signals using Python.
